@@ -15,12 +15,12 @@ layout: post
 
 <div style="display: flex; justify-content: space-around;">
    <div style="flex: 1; padding: 10px;" align="center">
-      <img src="../../images/lad.gif" width="75%"><br>
+      <img src="../../images/lad.gif" width="60%"><br>
       <b>Лариса Анатольевна Добрынина</b><br>
       Доктор медицинских наук, главный научный сотрудник Научного центра неврологии, руководитель 3-го неврологического отделения
    </div>
    <div style="flex: 1; padding: 10px;" align="center">
-      <img src="../../images/ord.gif" width="75%"><br>
+      <img src="../../images/ord.gif" width="60%"><br>
       <b>Ольга Роландовна Добрушина</b><br>
       Кандидат медицинских наук, старший научный сотрудник Научного центра неврологии
    </div>
