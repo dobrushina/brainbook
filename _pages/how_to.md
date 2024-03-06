@@ -1,5 +1,5 @@
 ---
-title: О программе
+title: Как проходить программу
 author: Olga Dobrushina
 date: 2024-02-07
 category: Jekyll
