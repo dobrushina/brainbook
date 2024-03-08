@@ -1,5 +1,5 @@
 ---
-title: Энергия и где её взять
+title: 1. Эмоциональная осознанность
 author: Olga Dobrushina
 date: 2024-02-06
 category: Jekyll

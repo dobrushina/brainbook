@@ -1,5 +1,5 @@
 ---
-title: Злость как энергия
+title: 8. Критик и хороший тренер
 author: Olga Dobrushina
 date: 2024-02-06
 category: Jekyll
